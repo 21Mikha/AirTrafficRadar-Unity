@@ -21,7 +21,7 @@ It shows aircraft positions on a radar-style map, updates them smoothly, and sup
 - **Unity 6**
 - C#
 - OpenSky API (states/all)
-- JSON parsing (Newtonsoft or JsonUtility)
+- JSON parsing (Newtonsoft/JsonUtility)
 
 ---
 

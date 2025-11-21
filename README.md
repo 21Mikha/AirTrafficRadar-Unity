@@ -1,7 +1,7 @@
-# UnityAirRadar – Live Flight Tracking Demo
+# AirTrafficRadar – Live Flight Tracking Demo
 ### Real-Time Air Traffic Visualization in Unity 6 (2D)
 
-UnityAirRadar is a lightweight 2D visualization tool that displays **real-time flight data** using the OpenSky Network API.  
+AirTrafficRadar is a lightweight 2D visualization tool that displays **real-time flight data** using the OpenSky Network API.  
 It shows aircraft positions on a radar-style map, updates them smoothly, and supports filtering and detailed flight inspection.
 
 ---
@@ -27,7 +27,7 @@ It shows aircraft positions on a radar-style map, updates them smoothly, and sup
 
 ## ▶️ Run the Project
 1. Clone the repo:  
-   `git clone https://github.com/21Mikha/UnityAirRadar-Live-Flight-Tracking-Demo`
+   `git clone https://github.com/21Mikha/AirTrafficRadar-Unity`
 2. Open in **Unity 6**
 3. Load `DemoScene.unity`
 4. Press **Play** to start live tracking

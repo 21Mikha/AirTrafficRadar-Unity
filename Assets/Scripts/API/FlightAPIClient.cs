@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
@@ -11,6 +11,7 @@ public class FlightAPIClient : MonoBehaviour
 
 
     public FlightDataManager dataManager;
+    public PlaneManager planeManager;
     void Start()
     {
         StartCoroutine(FetchLoop());
@@ -54,10 +55,12 @@ public class FlightAPIClient : MonoBehaviour
                 }
 
                 dataManager.UpdateFlights(flights);
+                planeManager.UpdateRenderData(dataManager.allFlights);
+
             }
             else
             {
-                Debug.LogWarning("raw.states is null � no flight data");
+                Debug.LogWarning("raw.states is null — no flight data");
             }
 
 

@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: d597e32abf5837c489a2cccf377942cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3663960100893669237
+    second: Altitude_0
+  - first:
+      213: 8374894322531389211
+    second: Altitude_1
+  - first:
+      213: 4633249008440625752
+    second: Altitude_2
+  - first:
+      213: 6665371645465210696
+    second: Altitude_3
+  - first:
+      213: 8809899487345436734
+    second: Altitude_4
+  - first:
+      213: -4591639182305801145
+    second: Altitude_5
+  - first:
+      213: 706324327347070384
+    second: Altitude_6
+  - first:
+      213: 6455742317629518375
+    second: Altitude_7
+  - first:
+      213: 7589880832942294422
+    second: Altitude_8
+  - first:
+      213: -966879644083542777
+    second: Altitude_9
+  - first:
+      213: 5228587534628980697
+    second: Altitude_10
+  - first:
+      213: -6276436123514356005
+    second: Altitude_11
+  - first:
+      213: -934957632504702710
+    second: Altitude_12
+  - first:
+      213: -2312438223178683897
+    second: Altitude_13
+  - first:
+      213: -3147681809863059862
+    second: Altitude_14
+  - first:
+      213: -1523067978166749993
+    second: Altitude_15
+  - first:
+      213: -688674544524719633
+    second: Altitude_16
+  - first:
+      213: -1686340121055860664
+    second: Altitude_17
+  - first:
+      213: -2774706231208532085
+    second: Altitude_18
+  - first:
+      213: -8050203488633880524
+    second: Altitude_19
+  - first:
+      213: 1951285029930192406
+    second: Altitude_20
+  - first:
+      213: -5816625836489748962
+    second: Altitude_21
+  - first:
+      213: 2051630656136759221
+    second: Altitude_22
+  - first:
+      213: -432753519105650697
+    second: Altitude_23
+  - first:
+      213: -7322181744256800639
+    second: Altitude_24
+  - first:
+      213: 2523062559698775804
+    second: Altitude_25
+  - first:
+      213: -3433725091063384336
+    second: Altitude_26
+  - first:
+      213: 1007416720450353354
+    second: Altitude_27
+  - first:
+      213: 6202901630775618915
+    second: Altitude_28
+  - first:
+      213: 2903174430341340336
+    second: Altitude_29
+  - first:
+      213: -6199702907107490866
+    second: Altitude_30
+  - first:
+      213: -2130357085772249927
+    second: Altitude_31
+  - first:
+      213: -2481129451731330463
+    second: Altitude_32
+  - first:
+      213: -7091364453498669108
+    second: Altitude_33
+  - first:
+      213: 9139612854851913797
+    second: Altitude_34
+  - first:
+      213: 5894822980880833933
+    second: Altitude_35
+  - first:
+      213: -5168199024636677591
+    second: Altitude_36
+  - first:
+      213: 8644012518628929757
+    second: Altitude_37
+  - first:
+      213: 4164497905909424058
+    second: Altitude_38
+  - first:
+      213: 8270862189792436861
+    second: Altitude_39
+  - first:
+      213: 8792815388503165735
+    second: Altitude_40
+  - first:
+      213: -7174262208299092576
+    second: Altitude_41
+  - first:
+      213: 7547460395311162966
+    second: Altitude_42
+  - first:
+      213: 6040217637670254471
+    second: Altitude_43
+  - first:
+      213: 8149087597173153354
+    second: Altitude_44
+  - first:
+      213: 3907073160796211075
+    second: Altitude_45
+  - first:
+      213: -1117199979999935728
+    second: Altitude_46
+  - first:
+      213: -5209526171542282477
+    second: Altitude_47
+  - first:
+      213: 1651282524687776140
+    second: Altitude_48
+  - first:
+      213: -6602365004762435421
+    second: Altitude_49
+  - first:
+      213: 6810008608042228632
+    second: Altitude_50
+  - first:
+      213: 7580954127918477696
+    second: Altitude_51
+  - first:
+      213: -1544928309579291212
+    second: Altitude_52
+  - first:
+      213: 1060172454368331908
+    second: Altitude_53
+  - first:
+      213: 6891766029561031686
+    second: Altitude_54
+  - first:
+      213: 3013329807974447334
+    second: Altitude_55
+  - first:
+      213: 492628374153007018
+    second: Altitude_56
+  - first:
+      213: 133856354904011894
+    second: Altitude_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Altitude_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b8fc9c4009d230800000000000000
+      internalID: 3663960100893669237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f4be5a30a993470800000000000000
+      internalID: 8374894322531389211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 110
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac808dc6b9c4040800000000000000
+      internalID: 4633249008440625752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 110
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2ae76238208c50800000000000000
+      internalID: 6665371645465210696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ee1a28ec034a70800000000000000
+      internalID: 8809899487345436734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 109
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc5e1cd783740c0800000000000000
+      internalID: -4591639182305801145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 110
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b52db3cb3e5dc900800000000000000
+      internalID: 706324327347070384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 110
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722b3c31f67679950800000000000000
+      internalID: 6455742317629518375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 100
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954217976ca45960800000000000000
+      internalID: 7589880832942294422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 110
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70528d12614f492f0800000000000000
+      internalID: -966879644083542777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 110
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7889619acaf8840800000000000000
+      internalID: 5228587534628980697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 100
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde3f72899e95e8a0800000000000000
+      internalID: -6276436123514356005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 3855
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095482acfc5603f0800000000000000
+      internalID: -934957632504702710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a266610b198efd0800000000000000
+      internalID: -2312438223178683897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66572132103154d0800000000000000
+      internalID: -3147681809863059862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d439905eb9fcdae0800000000000000
+      internalID: -1523067978166749993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe900c786265176f0800000000000000
+      internalID: -688674544524719633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 28
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848e9f1389ae898e0800000000000000
+      internalID: -1686340121055860664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a0cc32634e79d0800000000000000
+      internalID: -2774706231208532085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300e52349ee74090800000000000000
+      internalID: -8050203488633880524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec688756b541b10800000000000000
+      internalID: 1951285029930192406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 28
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4ba89e91374fa0800000000000000
+      internalID: -5816625836489748962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b74555363bd87c10800000000000000
+      internalID: 2051630656136759221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_23
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff486a97fc8ef9f0800000000000000
+      internalID: -432753519105650697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18829b88f72626a90800000000000000
+      internalID: -7322181744256800639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_25
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 28
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeeee0c708b30320800000000000000
+      internalID: 2523062559698775804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_26
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f632dae835f850d0800000000000000
+      internalID: -3433725091063384336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_27
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac87b337b201bfd00800000000000000
+      internalID: 1007416720450353354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_28
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d62173b22251650800000000000000
+      internalID: 6202901630775618915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_29
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1e7143c52a4820800000000000000
+      internalID: 2903174430341340336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_30
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3c6ecad0b36f9a0800000000000000
+      internalID: -6199702907107490866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_31
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b40fc184837f62e0800000000000000
+      internalID: -2130357085772249927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_32
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5bc3c8e1419dd0800000000000000
+      internalID: -2481129451731330463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_33
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 27
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc73168e999669d90800000000000000
+      internalID: -7091364453498669108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_34
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ca0eb77d66de70800000000000000
+      internalID: 9139612854851913797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_35
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d163dd44e9ec150800000000000000
+      internalID: 5894822980880833933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_36
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b2009e5ed648b0800000000000000
+      internalID: -5168199024636677591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_37
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 28
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd038e67693b5f770800000000000000
+      internalID: 8644012518628929757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_38
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd69de7c44bc930800000000000000
+      internalID: 4164497905909424058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_39
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a9c8375108c270800000000000000
+      internalID: 8270862189792436861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_40
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc15f620b560a70800000000000000
+      internalID: 8792815388503165735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_41
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b2dc4886ef6c90800000000000000
+      internalID: -7174262208299092576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_42
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 28
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e9dacd37fdb860800000000000000
+      internalID: 7547460395311162966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_43
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787726360f923d350800000000000000
+      internalID: 6040217637670254471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_44
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1c017eff571170800000000000000
+      internalID: 8149087597173153354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_45
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38788b4d656b83630800000000000000
+      internalID: 3907073160796211075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_46
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c7019988ee70f0800000000000000
+      internalID: -1117199979999935728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_47
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 27
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1f195c8b04b7b0800000000000000
+      internalID: -5209526171542282477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_48
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8933d315b88ae610800000000000000
+      internalID: 1651282524687776140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_49
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a03aad4200bf54a0800000000000000
+      internalID: -6602365004762435421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_50
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b95bf7fb2028e50800000000000000
+      internalID: 6810008608042228632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_51
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081bc1d1d95f43960800000000000000
+      internalID: 7580954127918477696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_52
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 28
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e41843ef4f8ae0800000000000000
+      internalID: -1544928309579291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_53
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488474fea3d76be00800000000000000
+      internalID: 1060172454368331908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_54
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce61390b874af50800000000000000
+      internalID: 6891766029561031686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_55
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b96bbe7f71d920800000000000000
+      internalID: 3013329807974447334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_56
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0baf65ea26d600800000000000000
+      internalID: 492628374153007018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Altitude_57
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 33
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747bf445ad8bd100800000000000000
+      internalID: 133856354904011894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Altitude_0: 3663960100893669237
+      Altitude_1: 8374894322531389211
+      Altitude_10: 5228587534628980697
+      Altitude_11: -6276436123514356005
+      Altitude_12: -934957632504702710
+      Altitude_13: -2312438223178683897
+      Altitude_14: -3147681809863059862
+      Altitude_15: -1523067978166749993
+      Altitude_16: -688674544524719633
+      Altitude_17: -1686340121055860664
+      Altitude_18: -2774706231208532085
+      Altitude_19: -8050203488633880524
+      Altitude_2: 4633249008440625752
+      Altitude_20: 1951285029930192406
+      Altitude_21: -5816625836489748962
+      Altitude_22: 2051630656136759221
+      Altitude_23: -432753519105650697
+      Altitude_24: -7322181744256800639
+      Altitude_25: 2523062559698775804
+      Altitude_26: -3433725091063384336
+      Altitude_27: 1007416720450353354
+      Altitude_28: 6202901630775618915
+      Altitude_29: 2903174430341340336
+      Altitude_3: 6665371645465210696
+      Altitude_30: -6199702907107490866
+      Altitude_31: -2130357085772249927
+      Altitude_32: -2481129451731330463
+      Altitude_33: -7091364453498669108
+      Altitude_34: 9139612854851913797
+      Altitude_35: 5894822980880833933
+      Altitude_36: -5168199024636677591
+      Altitude_37: 8644012518628929757
+      Altitude_38: 4164497905909424058
+      Altitude_39: 8270862189792436861
+      Altitude_4: 8809899487345436734
+      Altitude_40: 8792815388503165735
+      Altitude_41: -7174262208299092576
+      Altitude_42: 7547460395311162966
+      Altitude_43: 6040217637670254471
+      Altitude_44: 8149087597173153354
+      Altitude_45: 3907073160796211075
+      Altitude_46: -1117199979999935728
+      Altitude_47: -5209526171542282477
+      Altitude_48: 1651282524687776140
+      Altitude_49: -6602365004762435421
+      Altitude_5: -4591639182305801145
+      Altitude_50: 6810008608042228632
+      Altitude_51: 7580954127918477696
+      Altitude_52: -1544928309579291212
+      Altitude_53: 1060172454368331908
+      Altitude_54: 6891766029561031686
+      Altitude_55: 3013329807974447334
+      Altitude_56: 492628374153007018
+      Altitude_57: 133856354904011894
+      Altitude_6: 706324327347070384
+      Altitude_7: 6455742317629518375
+      Altitude_8: 7589880832942294422
+      Altitude_9: -966879644083542777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

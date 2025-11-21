@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public static class FlightStateConverter
 {
+
     public static FlightState FromRawRow(List<object> raw)
     {
         if (raw == null || raw.Count < 17)
